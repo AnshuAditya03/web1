@@ -1,0 +1,156 @@
+Name: Aravind K
+
+    Age: 21
+
+    Gender: Male
+
+    Skills:  foreach(Array as )
+    {
+        echo ;
+
+    }
+
+    Experience: 4yrs
+
+    CV File Name: 21BCA0040_VL2023240102621_AST05.docx
+
+Name: Aravind K
+
+    Age: 21
+
+    Gender: Male
+
+    Skills:  foreach(Array as )
+    {
+        echo ;
+
+    }
+
+    Experience: 4yrs
+
+    CV File Name: 21BCA0040_VL2023240102621_AST05.docx
+
+Name: Aravind K
+
+    Age: 21
+
+    Gender: Male
+
+    Skills:  foreach(Array as )
+    {
+        echo ;
+
+    }
+
+    Experience: 4yrs
+
+    CV File Name: 21BCA0040_VL2023240102621_AST05.docx
+
+Name: Aravind K
+
+    Age: 21
+
+    Gender: Male
+
+    Skills:  Array
+
+    Experience: 4yrs
+
+    CV File Name: FDA LAB DA---5(21BCA0040).pdf
+
+Name: Aravind K
+
+    Age: 21
+
+    Gender: Male
+
+    Skills:  Array
+
+    Experience: 4yrs
+
+    CV File Name: 21BCA0040_VL2023240102621_AST05.docx
+
+Name: Aravind K
+
+    Age: 21
+
+    Gender: Male
+
+    Skills:  Array
+
+    Experience: 4yrs
+
+    CV File Name: 21BCA0040_VL2023240102621_AST05.docx
+
+Name: Aravind K
+
+    Age: 21
+
+    Gender: Male
+
+    Skills:  Array
+
+    Experience: 4yrs
+
+    CV File Name: 21BCA0040_VL2023240102621_AST05.docx
+
+Name: Aravind K
+
+    Age: 21
+
+    Gender: Male
+
+    Skills: Python
+
+    Experience: 4yrs
+
+    CV File Name: 21BCA0040_VL2023240102621_AST05.docx
+
+Name: Aravind K
+
+    Age: 21
+
+    Gender: Male
+
+    Skills: Java
+
+    Experience: 4yrs
+
+    CV File Name: 21BCA0040_VL2023240102621_AST05.docx
+
+Name: Aravind K
+
+    Age: 21
+
+    Gender: Male
+
+    Skills: Java
+
+    Experience: 4yrs
+
+    CV File Name: 21BCA0040_VL2023240102621_AST05.docx
+
+Name: Aravind K
+
+    Age: 21
+
+    Gender: Male
+
+    Skills: Python
+
+    Experience: 4yrs
+
+    CV File Name: 21BCA0040_VL2023240102621_AST05.docx
+
+Name: Aravind K
+
+    Age: 21
+
+    Gender: Male
+
+    Skills: Python
+
+    Experience: 4yrs
+
+    CV File Name: 21BCA0040_VL2023240102621_AST05.docx
+
